@@ -107,10 +107,20 @@ WhatsApp-style messaging | **Socket.io** | Edit/Delete | Typing indicators | Rea
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=darshanrathod27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" width="49%" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com?user=darshanrathod27&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F97316&currStreakLabel=6366F1" width="49%" alt="GitHub Streak"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=darshanrathod27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanrathod27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanrathod27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" width="40%" alt="Top Languages"/>
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=darshanrathod27&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F97316&currStreakLabel=6366F1&sideLabels=6366F1&dates=8B949E" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshanrathod27&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
 
 </div>
 
