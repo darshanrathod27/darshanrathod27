@@ -68,43 +68,36 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+<a href="https://github.com/darshanrathod27/Rathod-Mart-Ecommerce">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=darshanrathod27&repo=Rathod-Mart-Ecommerce&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/darshanrathod27/chatify-master">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=darshanrathod27&repo=chatify-master&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
+</a>
 
-### Rathod Mart
-**Full-Stack E-Commerce Platform**
+</div>
 
-<a href="https://github.com/darshanrathod27/Rathod-Mart-Ecommerce"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://rathod-mart-store.onrender.com"><img src="https://img.shields.io/badge/Store-46E3B7?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
-<a href="https://rathod-mart-admin.onrender.com"><img src="https://img.shields.io/badge/Admin-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+### Rathod Mart - E-Commerce Platform
 
-Customer store + Admin dashboard | JWT | Google OAuth | Razorpay
+<div align="center">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+<a href="https://github.com/darshanrathod27/Rathod-Mart-Ecommerce"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://rathod-mart-store.onrender.com"><img src="https://img.shields.io/badge/🛍️_Live_Store-46E3B7?style=for-the-badge"/></a>
+<a href="https://rathod-mart-admin.onrender.com"><img src="https://img.shields.io/badge/👨‍💼_Admin_Panel-6366F1?style=for-the-badge"/></a>
+<a href="https://rathod-mart-backend.onrender.com"><img src="https://img.shields.io/badge/⚙️_API-FF6B6B?style=for-the-badge"/></a>
 
-</td>
-<td width="50%">
+Full-stack e-commerce with **Customer Store** & **Admin Dashboard** | MERN | JWT | Google OAuth | Razorpay
 
-### Chatify
-**Real-Time Chat Application**
+</div>
 
-<a href="https://github.com/darshanrathod27/chatify-master"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://chatify-master-sfbx.onrender.com"><img src="https://img.shields.io/badge/Live-46E3B7?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
+### Chatify - Real-Time Chat App
 
-WhatsApp-style messaging | Edit/Delete | Typing indicators | Read receipts
+<div align="center">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+<a href="https://github.com/darshanrathod27/chatify-master"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://chatify-master-sfbx.onrender.com"><img src="https://img.shields.io/badge/💬_Live_Demo-46E3B7?style=for-the-badge"/></a>
 
-</td>
-</tr>
-</table>
+WhatsApp-style messaging | **Socket.io** | Edit/Delete | Typing indicators | Read receipts
 
 </div>
 
@@ -114,16 +107,10 @@ WhatsApp-style messaging | Edit/Delete | Typing indicators | Read receipts
 
 <div align="center">
 
-<a href="https://github.com/darshanrathod27">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshanrathod27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" width="49%" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/darshanrathod27">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshanrathod27&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F97316&currStreakLabel=6366F1" width="49%" alt="GitHub Streak"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=darshanrathod27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" width="49%" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com?user=darshanrathod27&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F97316&currStreakLabel=6366F1" width="49%" alt="GitHub Streak"/>
 
-<a href="https://github.com/darshanrathod27">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanrathod27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" width="40%" alt="Top Languages"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanrathod27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" width="40%" alt="Top Languages"/>
 
 </div>
 
